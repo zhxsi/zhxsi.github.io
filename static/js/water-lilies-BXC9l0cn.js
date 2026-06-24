@@ -1,0 +1,1 @@
+import{a as e,m as t,u as n}from"./@vue/runtime-core-CKnN9_5D.js";import{t as r}from"./PaintingDetail-Dnp8u7iQ.js";var i=n({__name:`index`,setup(n){return(n,i)=>(t(),e(r,{slug:`water-lilies`}))}});export{i as default};

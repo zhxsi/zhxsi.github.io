@@ -1,0 +1,1 @@
+var e=`/static/images/starry-night-CtHKERni.jpg`,t=`/static/images/girl-with-pearl-earring-DatV3DKz.jpg`,n=`/static/images/great-wave-DHGyMrNh.jpg`,r=`/static/images/water-lilies-BBGnCCfk.jpg`;export{e as i,n,t as r,r as t};
